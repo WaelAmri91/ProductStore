@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PS.Domain"
   ],
-  "SelectedNode": "\\ProductStore.sln",
+  "SelectedNode": "\\PS.Services",
   "PreviewInSolutionExplorer": false
 }

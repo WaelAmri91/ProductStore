@@ -20,11 +20,12 @@ namespace PS.Domain
 
         public List<Provider> Providers { get; set; }
 
+        public string ImageName { get; set; }
         public override string ToString()
         {
             return "Name : "+ Name + " Quantity : " + Quantity + "Price :" + Price + "DateProd : " + DateProd;
         }
-        public void GetMyType()
+        public virtual void GetMyType()
         {
             Console.Write("Je suis un produit");
         }

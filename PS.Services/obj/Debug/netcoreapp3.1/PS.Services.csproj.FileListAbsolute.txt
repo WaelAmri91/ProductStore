@@ -37,3 +37,5 @@ C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Services\obj\Debug\net
 C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.csproj.CopyComplete
 C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.dll
 C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.pdb
+C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Services\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Services\bin\Debug\netcoreapp3.1\PS.Data.pdb

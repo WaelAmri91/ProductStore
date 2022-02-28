@@ -60,8 +60,31 @@ namespace PS.GUI
             Console.WriteLine(pr.Login("wael", "wael"));
 
             Product prod = new Product();
-            Chemical chem = new Chemical();
-            Biological bio = new Biological();
+            Chemical chem = new Chemical()
+            {
+                Name = "Chemicall",
+                Price = 50,
+                City = "Paris"
+            };
+            Chemical chem1 = new Chemical()
+            {
+                Name = "Chemicall",
+                Price = 150,
+                City = "Paris"
+            };
+            Chemical chem2 = new Chemical()
+            {
+                Name = "Chemicall",
+                Price = 20,
+                City = "Tunis"
+            };
+            Chemical chem3 = new Chemical()
+            {
+                Name = "Chemicall",
+                Price = 50,
+                City = "Madrid"
+            };
+            Product bio = new Biological();
 
             prod.GetMyType();
             chem.GetMyType();

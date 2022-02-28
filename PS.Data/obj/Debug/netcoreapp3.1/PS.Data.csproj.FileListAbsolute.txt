@@ -1,0 +1,16 @@
+C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.deps.json
+C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.runtimeconfig.json
+C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.runtimeconfig.dev.json
+C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CopyComplete
+C:\Users\Administrateur\Desktop\.Net\ProductStore-main\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.genruntimeconfig.cache
